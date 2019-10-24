@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 3rem auto 0 auto;
+  font-size: 2.7rem;
+  color: #036651;
+}
+
+h3 {
+  font-family: 'Lobster', cursive;
+  font-weight: normal;
+  font-size: 1.8rem;
+  margin-top: 0;
+  color: #007a60;
+}
+
+p {
+  font-family: serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin: 0;
+  color: #3b4145;
+}
+
+hr {
+  margin: auto;
+  height: auto;
+  background-color: #d1cbae;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e0dcbc;
+  border-width: 2rem;
+  width: 20%;
+  position: relative;
+}
+
+.divhr {
+  background-color: #d1cbae;
+  margin-left: 9.2rem;
+}
+
+.div1 {
+  background-color: #fbffeb;
+  position: relative;
+  padding-top: 6rem;
+  margin-left: 9.2rem;
+}
+
+.div2 {
+  background-color: #cbe3f5;
+  padding: 8rem 12rem 16rem 12rem;
+  position: relative;
+  margin: auto auto;
+  margin-left: 9.2rem;
+}
+
+.div3 {
+  background-color: #c7e9eb;
+  padding: 8rem 12rem 16rem 12rem;
+  position: relative;
+  margin: auto auto;
+  margin-left: 9.2rem;
+}
+
+.div4 {
+  background-color: #dbdbd9;
+  padding: 2rem 0 2rem 0;
+  position: relative;
+  margin: auto auto;
+  margin-left: 9.2rem;
+}
+
+.div5 {
+  /*background-color: rgba(203, 198, 219, 0.52);*/
+  background-color: #ffe8cf;
+  padding: 2rem 1rem 2rem 1rem;
+  position: fixed;
+  margin: auto auto;
+  top: 0;
+  bottom: 0;
+  right: 75rem;
+  left: 0;
+}
+
+.navbartext {}
+
+.navlinks {
+  color: #5b8074;
+  position: relative;
+  top: 20rem;
+}
+
+.topIce {
+  position: absolute;
+  right: 25%;
+  top: 5%;
+}
+
+.bottomIce {
+  position: absolute;
+  right: 65%;
+}
+
+.mountain {
+  max-width: 50%;
+  margin: 2rem auto;
+}
+
+.imgskills1 {
+  float: left;
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.imgskills2 {
+  float: right;
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+  left: 3rem;
+}
+
+.myButton {
+  box-shadow: 0 10px 14px -7px #276873;
+  background: linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+  background-color: #599bb3;
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 13px 32px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #3d768a;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+  background-color: #408c99;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
