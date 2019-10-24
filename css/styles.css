@@ -40,14 +40,14 @@ hr {
 
 .divhr {
   background-color: #d1cbae;
-  margin-left: 9.2rem;
+  margin-left: 15%;
 }
 
 .div1 {
   background-color: #fbffeb;
   position: relative;
   padding-top: 6rem;
-  margin-left: 9.2rem;
+  margin-left: 15%;
 }
 
 .div2 {
@@ -55,7 +55,7 @@ hr {
   padding: 8rem 12rem 16rem 12rem;
   position: relative;
   margin: auto auto;
-  margin-left: 9.2rem;
+  margin-left: 15%;
 }
 
 .div3 {
@@ -63,7 +63,7 @@ hr {
   padding: 8rem 12rem 16rem 12rem;
   position: relative;
   margin: auto auto;
-  margin-left: 9.2rem;
+  margin-left: 15%;
 }
 
 .div4 {
@@ -71,7 +71,7 @@ hr {
   padding: 2rem 0 2rem 0;
   position: relative;
   margin: auto auto;
-  margin-left: 9.2rem;
+  margin-left: 15%;
 }
 
 .div5 {
@@ -82,7 +82,7 @@ hr {
   margin: auto auto;
   top: 0;
   bottom: 0;
-  right: 90%;
+  right: 85%;
   left: 0;
 }
 
@@ -122,7 +122,7 @@ hr {
   position: relative;
   max-width: 100%;
   max-height: 100%;
-  left: 3rem;
+  padding-left: 5%;
 }
 
 .myButton {
